@@ -1,0 +1,14 @@
+{
+  "name": "Epoch",
+  "symbol": "EPO",
+  "description": "The singular, inevitable point of digital convergence. Epoch isn't just a token; it's a countdown to the heat death of corporate aesthetics. Born from the static of a blue void and the sheer procrastination of its creator, EPO serves as the official reserve currency for the coming age of calculated chaos. It offers zero utility, zero promise, and zero mercy. Hold it. Burn it. Watch it collapse. Welcome to the end of the beginning.",
+  "image": "https://raw.githubusercontent.com/Shy-up/images/main/03_epo/epoch-logo.png",
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://raw.githubusercontent.com/Shy-up/images/main/03_epo/epoch-logo.png"
+      }
+    ]
+  }
+}
